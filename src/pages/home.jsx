@@ -21,7 +21,8 @@ export const Home=() =>{
             <header className='flex justify-center'>My Products</header>
             <div className= 'lg:block lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2'>
                 
-                <div className = 'lg-block lg:inset-0 lg:right-0 lg:w-1/2 grid grid-cols-2 grid-rows-2 px-10 gap-4'>           
+                <div className = 'lg gap-4'>
+                    <img src="../images/logo.png" alt=''></img>       
 
                 </div>
             </div>  
