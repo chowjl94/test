@@ -36,12 +36,14 @@ export const Home=() =>{
         </div>
         
         <div id ='contact-me'>
-        <header className='flex justify-center'>Contact Info</header>
+        <header className='flex justify-center'>Contact Info Contact Info</header>
         <br></br>  
         <br></br>
         <br></br>
         <br></br>
         <br></br> 
+        <br></br>
+        <br></br>
         </div>
 
         <div id = 'connect-with-me' className='inset-x-0 bottom-0'>
